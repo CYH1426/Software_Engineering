@@ -5,6 +5,7 @@ var is_sin = false;
 var is_cos= false;
 var is_tan= false;
 var angle;
+var PI = 3.1415927;
 function display(str0)	//显示到文本框
 {
     str = document.getElementById("text");
