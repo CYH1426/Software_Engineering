@@ -1,0 +1,28 @@
+body {
+    background-image: url("/image3.webp");
+    background-size: cover;
+
+}
+
+h3 {
+    font-family: 华文楷体;
+    font-size: 35px;
+    text-align: center;
+}
+
+#show input {
+    width: 511px;
+    height: 60px;
+    font-size: 30px;
+}
+
+#custom input {
+    width: 100px;
+    height: 70px;
+    font-size: 28px;
+    background-image: url("/image2.jpg");
+}
+
+#custom input:hover {
+    background-image: url("/image1.jpg");
+}
